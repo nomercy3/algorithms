@@ -130,3 +130,6 @@ dmypy.json
 
 # Inner IDEA files
 .idea
+
+# Custom
+.DS_Store
